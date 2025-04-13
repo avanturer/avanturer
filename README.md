@@ -15,7 +15,7 @@
 - **НИТУ МИСиС** — Бакалавриат прикладной математики (2022–2026)
 - **Deep Learning School (МФТИ)** — Продвинутый поток: CV/NLP (2022–2023)
 - **Yandex DataSchool** — NLP/RecSys курсы (2024)
-- **VK Education** — Modern Recommender Systems (2024–2025)
+- **VK Education** / **MTC** — Modern Recommender Systems (2024)
 
 ---
 
